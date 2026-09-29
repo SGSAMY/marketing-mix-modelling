@@ -1,5 +1,28 @@
 # Marketing Mix Modelling (MMM) - Budget Optimisation
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0052CC?style=for-the-badge)
+![MMM](https://img.shields.io/badge/Marketing%20Mix%20Modelling-008000?style=for-the-badge)
+
+## Overview
+
+An end-to-end Marketing Mix Modelling (MMM) framework built using Python to analyse marketing channel effectiveness, estimate revenue contribution, evaluate ROI and simulate budget optimisation scenarios.
+
+## Business Questions
+
+This project explores:
+
+- Which marketing channels contribute most to revenue?
+- How does advertising carryover impact performance?
+- Which channels deliver higher ROI?
+- How can marketing investment scenarios be evaluated?
+- How can budget allocation decisions be supported using data?
+
 ## Project Overview
 
 This project demonstrates an end-to-end **Marketing Mix Modelling (MMM)** framework to evaluate the impact of marketing channels on revenue performance and support data-driven marketing investment decisions.
