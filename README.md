@@ -300,19 +300,6 @@ output/
 
 ---
 
-# Key Insights
-
-The project demonstrates how MMM can be used to:
-
-- Evaluate marketing channel effectiveness
-- Measure incremental marketing impact
-- Incorporate advertising carryover effects
-- Model diminishing returns
-- Compare channel ROI
-- Simulate budget allocation scenarios
-
----
-
 # Model Visualisations
 
 ## Revenue Prediction Performance
@@ -339,13 +326,13 @@ Weekly marketing investment patterns were analysed across different marketing ch
 
 # Key Insights
 
-This project demonstrates how Marketing Mix Modelling can be used to:
+This project demonstrates how Marketing Mix Modelling (MMM) can be used to:
 
 - Estimate the relative contribution of different marketing channels
 - Evaluate marketing efficiency through ROI analysis
-- Understand advertising carryover effects using adstock transformation
+- Capture advertising carryover effects using adstock transformation
 - Model diminishing returns using saturation effects
-- Support data-driven budget allocation scenarios
+- Support data-driven marketing budget allocation scenarios
   
 ---
 
