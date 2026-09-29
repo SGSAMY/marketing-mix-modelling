@@ -9,6 +9,20 @@
 ![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0052CC?style=for-the-badge)
 ![MMM](https://img.shields.io/badge/Marketing%20Mix%20Modelling-008000?style=for-the-badge)
 
+## Overview
+
+An end-to-end Marketing Mix Modelling (MMM) framework built using Python to analyse marketing channel effectiveness, estimate revenue contribution, evaluate ROI and simulate budget optimisation scenarios.
+
+## Business Questions
+
+This project explores:
+
+- Which marketing channels contribute most to revenue?
+- How does advertising carryover impact performance?
+- Which channels deliver higher ROI?
+- How can marketing investment scenarios be evaluated?
+- How can budget allocation decisions be supported using data?
+
 ## Project Overview
 
 This project demonstrates an end-to-end **Marketing Mix Modelling (MMM)** framework to evaluate the impact of marketing channels on revenue performance and support data-driven marketing investment decisions.
