@@ -302,7 +302,7 @@ output/
 
 # Model Visualisations
 
-## Revenue Prediction Performance
+## Model Performance - Actual vs Predicted Revenue
 
 The MMM model compares actual revenue against predicted revenue to evaluate how well the model captures historical revenue patterns.
 
