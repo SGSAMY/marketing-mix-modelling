@@ -313,6 +313,30 @@ The project demonstrates how MMM can be used to:
 
 ---
 
+# Model Visualisations
+
+## Revenue Prediction Performance
+
+The MMM model compares actual revenue against predicted revenue to evaluate how well the model captures historical revenue patterns.
+
+![Actual vs Predicted Revenue](images/actual_vs_predicted_revenue.jpg)
+
+
+## Marketing Budget Optimisation
+
+The model was used to simulate alternative budget allocation scenarios based on estimated channel contribution and ROI analysis.
+
+![Current vs Optimised Budget](images/budget_optimisation.jpg)
+
+
+## Marketing Channel Investment Trends
+
+Weekly marketing investment patterns were analysed across different marketing channels.
+
+![Marketing Channel Spend](images/marketing_channel_spend.jpg)
+
+---
+
 # Limitations
 
 This portfolio project has several limitations:
