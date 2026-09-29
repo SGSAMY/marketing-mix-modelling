@@ -393,13 +393,7 @@ marketing-mix-modelling
 
 ---
 
-# Author
-
-**Satheesh Gurusamy**
-
-Senior Data & Marketing Analytics Professional
-
-Skills demonstrated:
+# Skills demonstrated:
 
 - Marketing Analytics
 - Customer Analytics
@@ -409,3 +403,17 @@ Skills demonstrated:
 - Data Modelling
 - CRM Analytics
 - Marketing Effectiveness Analysis
+
+  ---
+
+## Author
+
+### Satheesh Gurusamy
+
+### Connect With Me
+
+- LinkedIn : https://www.linkedin.com/in/satheeshgurusamy
+- Web : www.sgsamy.com
+- GitHub : https://github.com/SGSAMY
+
+
