@@ -337,6 +337,18 @@ Weekly marketing investment patterns were analysed across different marketing ch
 
 ---
 
+# Key Insights
+
+This project demonstrates how Marketing Mix Modelling can be used to:
+
+- Estimate the relative contribution of different marketing channels
+- Evaluate marketing efficiency through ROI analysis
+- Understand advertising carryover effects using adstock transformation
+- Model diminishing returns using saturation effects
+- Support data-driven budget allocation scenarios
+  
+---
+
 # Limitations
 
 This portfolio project has several limitations:
